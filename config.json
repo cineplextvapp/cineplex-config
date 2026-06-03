@@ -2,7 +2,7 @@
   "latest_version": 40,
   "version_name": "4.0",
 
-  "apk_url": "",
+  "apk_url": "https://your-apk-link.apk",
 
   "force_update": false,
 
@@ -10,10 +10,12 @@
 
   "message_text": "",
 
+  "update_title": "Cineplex TV 4.0",
+
   "update_notes": [
-    "Mobile fullscreen improvements",
     "Numeric channel selection",
     "No Signal detection",
+    "Mobile fullscreen improvements",
     "Better TV navigation"
   ]
 }

@@ -1,0 +1,19 @@
+{
+  "latest_version": 40,
+  "version_name": "4.0",
+
+  "apk_url": "",
+
+  "force_update": false,
+
+  "show_message": false,
+
+  "message_text": "",
+
+  "update_notes": [
+    "Mobile fullscreen improvements",
+    "Numeric channel selection",
+    "No Signal detection",
+    "Better TV navigation"
+  ]
+}

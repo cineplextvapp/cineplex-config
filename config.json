@@ -2,7 +2,7 @@
   "latest_version": 40,
   "version_name": "4.0",
 
-  "apk_url": "https://your-apk-link.apk",
+  "apk_url": "https://github.com/cineplextvapp/app-update/raw/refs/heads/main/CineplexTV%204.0.apk",
 
   "force_update": false,
 

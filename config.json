@@ -1,8 +1,8 @@
 {
-  "latest_version": 41,
-  "version_name": "4.1",
+  "latest_version": 42,
+  "version_name": "4.2",
 
-  "apk_url": "https://github.com/cineplextvapp/app-update/raw/refs/heads/main/CineplexTV4.1.apk",
+  "apk_url": "https://github.com/cineplextvapp/app-update/raw/refs/heads/main/CineplexTV4.2.apk",
 
   "force_update": false,
 
@@ -10,12 +10,10 @@
 
   "message_text": "Stream Live Cricket Match on T-Sports HD ",
 
-  "update_title": "Cineplex TV 4.1",
+  "update_title": "Cineplex TV 4.2",
 
   "update_notes": [
-    "Numeric channel selection",
-    "No Signal detection",
-    "Mobile fullscreen improvements",
-    "Better TV navigation"
+    "Bug fixed",
+    "Overall user experience increased",
   ]
 }
